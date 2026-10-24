@@ -1,0 +1,13 @@
+{
+  "name": "Élixir — Daily Rituals",
+  "short_name": "Élixir",
+  "description": "A calm, considered space for your daily rituals and tasks.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#181110",
+  "theme_color": "#181110",
+  "icons": [
+    { "src": "/elixir-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

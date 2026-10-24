@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Élixir</title>
+  <defs>
+    <linearGradient id="tile" x1="7" y1="5" x2="57" y2="62" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#211817"/>
+      <stop offset="1" stop-color="#120d0d"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="20" y1="48" x2="48" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CBB6EE"/>
+      <stop offset="1" stop-color="#E8DEF8"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="19" fill="url(#tile)" stroke="#E8DEF8" stroke-opacity=".12"/>
+  <path d="M17 48.5 27.8 20c1.5-4 3.2-6 5-6s3.5 2 5 6l10.8 28.5" stroke="#F5F1FA" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M21 49c4.2-11.4 10-17.1 17.4-17.1 4.6 0 8.3 1.8 11.1 5.4L21 52.7V49Z" fill="url(#ribbon)"/>
+  <path d="M21 49c4.2-11.4 10-17.1 17.4-17.1 4.6 0 8.3 1.8 11.1 5.4L21 52.7V49Z" fill="#CBB6EE" fill-opacity=".16"/>
+</svg>
